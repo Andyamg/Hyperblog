@@ -1,4 +1,6 @@
-# Hyperblog :3 :tw-1f49c:
+# Hyperblog  💜
+
+✨ Bienvenid@ a mi GitHub!  🐱
 
 Un blog para poner en práctica todo lo aprendido en el curso de  [Curso de Git y GitHub](https://platzi.com/cursos/git-github/tp:// "Curso de Git y GitHub") de [Platzi](https://platzi.com/home "Platzi").
 
